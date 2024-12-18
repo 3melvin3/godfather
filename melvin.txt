@@ -1,0 +1,16 @@
+git clone <url> ==>  create local workespace
+
+git status ==>  status of local workespace
+
+git adde  <filename>==> adding file to staging arae
+
+git add.  ==> add all files 
+
+git commit  -m <commit_message> ==> commit the changes with a message ,that has been tracked by git 
+
+git push  -u origin <branch_name >==> push the change to remote repository
+
+git log ==> show the commit history 
+
+git init ==> intailze the folder
+
